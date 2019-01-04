@@ -1,0 +1,27 @@
+body {
+	background-color: #7F5A89;
+	padding: 100px;
+	
+}
+#sidebarA {
+	width: 25%;
+	float: left;
+	
+}
+main {
+	width: 50%;
+	float: left;
+	text-align: center;
+	padding: 20px;
+	
+}
+#sidebarB {
+	padding-left: 5px;
+	width: 21%;
+	float: left;
+	height: 100%;
+}	
+footer {
+	clear: both;
+	text-align: center; 
+}
