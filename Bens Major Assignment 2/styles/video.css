@@ -1,0 +1,14 @@
+iframe {
+	border-style: solid;
+	border-width: 10px;
+	border-color: gold;
+
+}
+caption { 
+    display: table-caption;
+    text-align: center;
+	float: top;
+}
+section, table, caption  {
+	margin: auto;
+}

@@ -1,0 +1,26 @@
+figure {
+	display: table-caption;
+    text-align: center;
+	float: top;
+
+}
+figcaption {
+	text-align: center;
+	font-weight: bold;
+}
+table img {
+
+	border-style: solid;
+	border-width: 10px;
+	border-color: gold;
+
+}
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
